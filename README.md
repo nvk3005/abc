@@ -90,6 +90,12 @@
 
 ---
 ## Kết quả trang web
+
+| Chức năng    | Hình ảnh |
+|--------------|----------|
+| **Đăng nhập** | ![Login1](images/login1.png) ![Login2](images/login2.png) ![Login3](images/login3.png) |
+| **Danh mục** | ![DanhMuc1](images/danhmuc1.png) ![DanhMuc2](images/danhmuc2.png) ![DanhMuc3](images/danhmuc3.png) |
+
 ---
 
 ## 📞 Liên hệ

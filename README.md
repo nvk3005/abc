@@ -13,7 +13,8 @@
 
 ## 👨‍💻 Tác giả
 - **Vũ Anh Tuấn**  
-![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)  
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/VuAnhTuan-1993)
+
 
 ---
 

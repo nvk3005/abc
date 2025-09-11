@@ -6,14 +6,14 @@
 
 <p align="center">
   Một website thương mại điện tử chuyên cung cấp các sản phẩm công nghệ chính hãng của Apple,  
-  được xây dựng bằng <b>ASP.NET</b> và các công nghệ web hiện đại.
+  được xây dựng bằng <b>ASP.NET</b>.
 </p>
 
 ---
 
 ## 👨‍💻 Tác giả
 - **Vũ Anh Tuấn**  
-![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)  
+![GitHub Profile](https://github.com/VuAnhTuan-1993)  
 
 ---
 

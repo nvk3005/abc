@@ -13,9 +13,10 @@
 
 ## 👨‍💻 Tác giả
 - **Vũ Anh Tuấn**  
-![GitHub Profile](https://github.com/VuAnhTuan-1993)  
+![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)  
 
 ---
+
 
 ## 📋 Giới thiệu dự án
 **Apple Store** là một nền tảng thương mại điện tử chuyên biệt cho các sản phẩm Apple chính hãng. Website cung cấp trải nghiệm mua sắm trực tuyến cao cấp với đầy đủ các tính năng từ duyệt sản phẩm, quản lý giỏ hàng đến hệ thống quản trị toàn diện.

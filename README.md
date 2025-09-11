@@ -20,14 +20,14 @@
 
 
 ## 📋 Giới thiệu dự án
-**Apple Store** là một nền tảng thương mại điện tử chuyên biệt cho các sản phẩm Apple chính hãng. Website cung cấp trải nghiệm mua sắm trực tuyến cao cấp với đầy đủ các tính năng từ duyệt sản phẩm, quản lý giỏ hàng đến hệ thống quản trị toàn diện.
+**Apple Store** là một nền tảng thương mại điện tử cơ bản dành cho các sản phẩm Apple chính hãng. Website cung cấp các chức năng chính như xem và tìm kiếm sản phẩm, quản lý giỏ hàng, đăng ký/đăng nhập tài khoản cho người dùng, đồng thời hỗ trợ quản trị viên quản lý sản phẩm, danh mục và người dùng. Dự án được xây dựng nhằm rèn luyện kỹ năng lập trình web với ASP.NET, SQL Server và các công nghệ web phổ biến.
 
-### Các dòng sản phẩm chính
+**Các danh mục chính**
 - 📱 iPhone  
 - 💻 Mac  
 - 📘 iPad  
 - ⌚️ Apple Watch  
-- 🎧 AirPods & Phụ kiện Apple  
+- 🎧 AirPods
 
 ### Hệ thống phân quyền
 - 👤 **Người dùng** - Trải nghiệm mua sắm đầy đủ  
@@ -36,14 +36,14 @@
 ---
 
 ## 🛠 Công nghệ sử dụng
-- **Backend**: ASP.NET Framework  
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend**: ASP.NET MVC
+- **Frontend**: HTML5, CSS3, SCSS, Less, JavaScript, Bootstrap  
 - **Database**: SQL Server  
-- **Other**: Entity Framework, jQuery, AJAX  
-
+- **Other**: Entity Framework, jQuery, AJAX
+  
 ---
 
-## ✨ Tính năng nổi bật
+## ✨ Tính năng của trang web
 
 ### 👤 Cho người dùng
 - 🏠 Trang chủ với sản phẩm mới và bán chạy  
@@ -65,16 +65,15 @@
 ## 🚀 Hướng dẫn cài đặt và chạy dự án
 
 ### Prerequisites
-- Microsoft Visual Studio 2019 hoặc cao hơn  
-- SQL Server (LocalDB hoặc Express Edition)  
-- .NET Framework 4.7.2 hoặc cao hơn  
+- Microsoft Visual Studio
+- SQL Server
+- .NET Framework
 
 ### Các bước thực hiện
 
 1. **Clone repository**
    ```bash
    git clone https://github.com/VuAnhTuan-1993/Apple-Store-WEB.git
-   cd Apple-Store-WEB
    ```
 
 2. **Khởi tạo database**
@@ -83,37 +82,19 @@
 
 3. **Cấu hình kết nối database**
    - Mở file `appsettings.json`
-   - Kiểm tra và cập nhật chuỗi kết nối database nếu cần
+   - Kiểm tra và cập nhật chuỗi kết nối database đúng với tên database trên máy
 
 4. **Chạy ứng dụng**
    - Mở file `AppleStore_MVC.sln` trong **Visual Studio**
    - Nhấn **F5** để build và chạy dự án
 
 ---
-
-## 📂 Cấu trúc dự án
-```
-Apple-Store-WEB/
-├── Controllers/         # Các controller xử lý logic
-├── Models/              # Data models và database context
-├── Views/               # Giao diện người dùng
-├── wwwroot/             # Tài nguyên tĩnh (CSS, JS, images)
-├── Database/            # Scripts và file database
-└── appsettings.json     # Cấu hình ứng dụng
-```
-
+## Kết quả trang web
 ---
 
 ## 📞 Liên hệ
 Nếu bạn có bất kỳ câu hỏi hoặc đóng góp nào cho dự án, vui lòng liên hệ qua:  
-- **Email**: tuanva@example.com  
+- **Email**: tuanva011093@sv-onuni.edu.vn 
 - **GitHub**: [https://github.com/VuAnhTuan-1993](https://github.com/VuAnhTuan-1993)  
 
 ---
-
-## 📄 Giấy phép
-Dự án này được phát triển cho mục đích **học tập và phi thương mại**.
-
----
-
-⭐ Đừng quên **đánh giá sao** cho repository nếu bạn thấy dự án hữu ích!

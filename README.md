@@ -1,4 +1,14 @@
-# 🍎 Apple Store - E-commerce Website  
+<h1 align="center">Apple Store - E-commerce Website</h1>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1000px-Apple_logo_black.svg.png" alt="Apple Logo" width="150"/>
+</p>
+
+<p align="center">
+  Một website thương mại điện tử chuyên cung cấp các sản phẩm công nghệ chính hãng của Apple,  
+  được xây dựng bằng <b>ASP.NET</b> và các công nghệ web hiện đại.
+</p>
+  
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1000px-Apple_logo_black.svg.png" alt="Apple Logo" width="150"/>
